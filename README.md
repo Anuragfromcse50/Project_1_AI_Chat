@@ -1,5 +1,7 @@
 🤖 AI Chat Assistant
 
+link - https://anuragfromcse50-project-1-ai-chat-app-zav28g.streamlit.app/
+
 An AI-powered chat assistant built with Python, Streamlit, Groq API,
 and an open-weight AI model.
 
@@ -209,4 +211,4 @@ Built with Python and open-weight AI technologies for HackDay 2026
 preparation.
 
 
-link - https://anuragfromcse50-project-1-ai-chat-app-zav28g.streamlit.app/
+
